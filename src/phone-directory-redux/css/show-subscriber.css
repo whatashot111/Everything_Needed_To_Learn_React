@@ -1,0 +1,15 @@
+.grid-main-container {
+  margin: 16px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 40% 30% auto;
+  margin-bottom: 16px;
+  font-size: 18px;
+}
+
+.heading {
+  text-decoration: underline;
+  font-weight: bold;
+}
